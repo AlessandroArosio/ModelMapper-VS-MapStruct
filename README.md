@@ -11,3 +11,10 @@ The test is carried out mapping 10.000 items of the same type. The result time i
 
 ModelMapper: 272
 MapStruct: 7
+
+
+References:
+ModelMapper -> http://modelmapper.org/
+MapStruct -> https://mapstruct.org
+Baeldung -> https://www.baeldung.com/java-performance-mapping-frameworks
+            https://www.baeldung.com/mapstruct
